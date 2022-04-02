@@ -49,16 +49,16 @@ _(from [branchard/fast-speedtest-api](https://github.com/branchard/fast-speedtes
 
 ## 📦 Used packages & Copyright notes
 **[fast-speedtest-api](https://www.npmjs.com/package/fast-speedtest-api)**
-  - GitHub: [branchard/fast-speedtest-api](https://github.com/branchard/fast-speedtest-api/)
-  - © [github.com/branchard](https://github.com/branchard)
-  - License: `GNU General Public License v3.0`
+  - 🐱 GitHub:    [branchard/fast-speedtest-api](https://github.com/branchard/fast-speedtest-api/)
+  - © Copyright:  [github.com/branchard](https://github.com/branchard)
+  - 📄 License:   `GNU General Public License v3.0`
 
 <br>
 
 **[Discord-Webhook-Node](https://www.npmjs.com/package/discord-webhook-node)** 
-  - GitHub: [matthew1232/discord-webhook-node](https://github.com/matthew1232/discord-webhook-node)
-  - © [github.com/matthew1232](https://github.com/matthew1232)
-  - License: `MIT`
+  - 🐱 GitHub:    [matthew1232/discord-webhook-node](https://github.com/matthew1232/discord-webhook-node)
+  - © Copyright:  [github.com/matthew1232](https://github.com/matthew1232)
+  - 📄 License:   `MIT`
 
 
 ## 📄 License
