@@ -1,7 +1,9 @@
 # Network Speed Alert Tester to Discord Webhook
 Simple Node.js program that tests the network speed and sends the value of Mbps to a Discord Webhook if it is under a defined value.
 
-<img src="https://user-images.githubusercontent.com/81855420/161382704-552c487f-e6eb-46cc-be8a-d69b46d4d105.png" alt="Discord Webhook message »Your network speed is currently at: 981 Mbps.«"> 
+[![CodeQL Analysis](https://github.com/luisoos/Network-Speed-Alert-Discord/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/luisoos/Network-Speed-Alert-Discord/actions/workflows/codeql-analysis.yml)
+
+<img src="https://user-images.githubusercontent.com/81855420/161384170-18c27fa7-19fd-4699-bae7-2483a9d9e894.png" alt="Discord Webhook message »Your network speed is currently at: 981 Mbps.«"> 
 
 ---
 
