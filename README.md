@@ -25,6 +25,9 @@ Simple Node.js program that tests the network speed and sends the value of Mbps 
 <br>
 
 # 📥Installation
+
+Note: You need [Node.js](https://nodejs.org/) installed, since the program is using it. 
+
 ## 📁 Cloning the project
 **HTTPS: `git clone https://github.com/luisoos/Network-Speed-Alert-Discord.git`**
 
