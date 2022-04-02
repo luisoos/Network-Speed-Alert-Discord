@@ -16,7 +16,7 @@ GitHub CLI: `gh repo clone luisoos/Network-Speed-Alert-Discord`
 ## Add parameters
 
 - Enter value of Mbps under what the program should contact you on Discord (line 10).
-- Enter your token (→ see #get-token) (line 26).
+- Enter your token (→ see <a href="#get-token">"Get token"</a>) (line 26).
 - Enter your Discord Webhook (line 51).
 
 
