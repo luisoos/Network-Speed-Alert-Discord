@@ -43,4 +43,4 @@ _(from [branchard/fast-speedtest-api](https://github.com/branchard/fast-speedtes
 
 
 ## License
-This project is licensed under [Apache 2.0](https://github.com/luisoos/Network-Speed-Alert-Discord/blob/main/LICENSE).
+This project is licensed under [GNU General Public License v3.0](https://github.com/luisoos/Network-Speed-Alert-Discord/blob/main/LICENSE).
