@@ -42,7 +42,7 @@ GitHub CLI: `gh repo clone luisoos/Network-Speed-Alert-Discord`
 # 📑 Annotations
 
 ## 🔌 Get token
-Go on fast.com, open your browser devtools, go on Network tab and copy the token on the request url that looks like `https://api.fast.com/netflix/speedtest?https=true&token=<the-token>&urlCount=5`. 
+Go on [fast.com](https://fast.com), open your browser devtools, go on the `Network` tab and copy the token on the request url that looks like `https://api.fast.com/netflix/speedtest?https=true&token=<the-token>&urlCount=5`. 
 
 _(from [branchard/fast-speedtest-api](https://github.com/branchard/fast-speedtest-api#how-to-get-app-token-))_
 
