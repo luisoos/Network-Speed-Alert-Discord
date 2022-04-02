@@ -3,6 +3,7 @@ Simple program that tests the network speed and sends the value of Mbps to a Dis
 
 <img src="https://user-images.githubusercontent.com/81855420/161382704-552c487f-e6eb-46cc-be8a-d69b46d4d105.png" alt="Discord Webhook message »Your network speed is currently at: 981 Mbps.«"> 
 
+<br>
 
 # Installation
 ## Clone the project
