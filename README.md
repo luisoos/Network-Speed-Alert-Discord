@@ -19,6 +19,7 @@ GitHub CLI: `gh repo clone luisoos/Network-Speed-Alert-Discord`
 - Enter your token (→ see <a href="#get-token">"Get token"</a>) (line 26).
 - Enter your Discord Webhook (line 51).
 
+<br>
 
 # Annotations
 
