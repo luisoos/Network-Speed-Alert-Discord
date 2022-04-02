@@ -24,7 +24,7 @@ Simple Node.js program that tests the network speed and sends the value of Mbps 
 
 # 📥Installation
 ## 📁 Cloning the project
-**HHTPS: `git clone https://github.com/luisoos/Network-Speed-Alert-Discord.git`**
+**HTTPS: `git clone https://github.com/luisoos/Network-Speed-Alert-Discord.git`**
 
 SSH: `git@github.com:luisoos/Network-Speed-Alert-Discord.git`
 
@@ -42,7 +42,7 @@ GitHub CLI: `gh repo clone luisoos/Network-Speed-Alert-Discord`
 # 📑 Annotations
 
 ## 🔌 Get token
-Go on [fast.com](https://fast.com), open your browser devtools, go on the `Network` tab and copy the token on the request url that looks like `https://api.fast.com/netflix/speedtest?https=true&token=<the-token>&urlCount=5`. 
+Go to [fast.com](https://fast.com), open your browser DevTools, go on the `Network` tab and copy the token on the request URL that looks like `https://api.fast.com/netflix/speedtest?https=true&token=<the-token>&urlCount=5`. You may be able to filter all requests - search for `netflix` there.
 
 _(from [branchard/fast-speedtest-api](https://github.com/branchard/fast-speedtest-api#how-to-get-app-token-))_
 
